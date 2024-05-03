@@ -1,26 +1,23 @@
 # vscode 插件
-1. rust-analyzer  Rust 语言的插件
+
+1. rust-analyzer Rust 语言的插件
 2. Even Better TOML，支持 .toml 文件完整特性
 3. Error Lens, 更好的获得错误展示
 4. CodeLLDB, Debugger 程序
 
-# cargo 初始化项目
+# cargo 相关命令
+
 
 ```
-cargo new [project]
-```
+//创建一个新的 cargo 项目
+cargo new (project's name)
 
-# cargo 运行
-
-```
-cargo run
-```
-
-```
+//编译项目
 cargo build
-```
 
-```
+//对项目进行编译，然后再运行
+cargo run
+
 cargo check
 ```
 
@@ -60,3 +57,6 @@ git-fetch-with-cli = true
 
 首先，创建一个新的镜像源 [source.ustc]，然后将默认的 crates-io 替换成新的镜像源: replace-with = 'ustc'。
 
+# 学习资料
+
+- [Rust Course](https://course.rs/basic/intro.html)
