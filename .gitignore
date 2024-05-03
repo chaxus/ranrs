@@ -10,3 +10,10 @@ target/
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# [Mac]
+.DS_Store
+
+# [TypeScript]
+node_modules
+test-ledger
