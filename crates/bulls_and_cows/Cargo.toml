@@ -4,4 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anchor-lang = "0.30.0"
 rand = "0.8"
+solana-program = "1.18.12"
