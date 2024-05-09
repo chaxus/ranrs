@@ -65,3 +65,7 @@ git-fetch-with-cli = true
 
 1. [solana测试币领取地址](https://faucet.solana.com/)
 2. [查询交易信息地址](https://explorer.solana.com/address)
+
+# Visitors
+
+![](http://profile-counter.glitch.me/chaxus-ranrs/count.svg)
