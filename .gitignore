@@ -17,3 +17,4 @@ target/
 # [TypeScript]
 node_modules
 test-ledger
+pnpm-lock.yaml
